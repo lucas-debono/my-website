@@ -1,0 +1,26 @@
+body{color: black;
+background-image: url(images/fond3.jpg);
+text-align: center;
+font-family: 'Signika Negative', sans-serif;
+font-size: 18px;}
+a{text-decoration: none;}
+p{text-align: center;}
+h2{color: black;
+text-align: initial;
+font-size: 30px;
+font-family: 'Calligraffitti', cursive;}
+h1{color: darkred;
+text-align: center;
+font-family: 'Oswald', sans-serif;;
+font-size: 60px;}
+h3{color: darkblue;
+font-size: 20px;
+font-family: 'TimesNewRoman', cursive;}
+h5{color: black;
+font-size: 18px;}
+h6{color: darkgreen;
+font-size: 20px;
+font-family: 'TimesNewRoman', cursive;}
+h4{color: beige;
+font-size: 20px;
+font-family: 'TimesNewRoman', cursive;}
